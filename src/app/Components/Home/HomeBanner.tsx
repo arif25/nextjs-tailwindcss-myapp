@@ -19,7 +19,7 @@ const HomeBanner = () => {
             slidesPerView={1}loop={true} 
             autoplay={{
               delay: 5000,
-              disableOnInteraction: true,
+              disableOnInteraction: true,  
             }}
             navigation
             pagination={false}
